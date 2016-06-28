@@ -22,6 +22,11 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Vlk.Framework.Common", "src
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{3703821D-7C64-4369-91CE-B9F5505DF2D6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "git", "git", "{A2CE0BB9-7CD1-4A83-934C-D85403DC83B0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
