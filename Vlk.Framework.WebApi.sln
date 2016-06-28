@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FDB4C3E3-DE62-4328-A9CC-57116053FD7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{01FFDA45-84BA-4B78-83C9-BB2B5FA2F535}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Vlk.Framework.WebApi", "src\Vlk.Framework.WebApi\Vlk.Framework.WebApi.xproj", "{FAD6DE27-8DCC-40F5-BCB2-44EFEE863855}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Vlk.Framework.Business", "src\Vlk.Framework.Business\Vlk.Framework.Business.xproj", "{4B8F8BA6-6766-41AF-AA06-44750B12F11E}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Vlk.Framework.Models", "src\Vlk.Framework.Models\Vlk.Framework.Models.xproj", "{095BCFEB-20F9-4A59-85A2-FA5D8A45334E}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Vlk.Framework.DAL", "src\Vlk.Framework.DAL\Vlk.Framework.DAL.xproj", "{28F263E2-BC36-4472-AADB-62BD2D2DDE3C}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Vlk.Framework.Common", "src\Vlk.Framework.Common\Vlk.Framework.Common.xproj", "{1FF4565B-B3C9-4866-BF64-5F925B055E11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{3703821D-7C64-4369-91CE-B9F5505DF2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD6DE27-8DCC-40F5-BCB2-44EFEE863855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD6DE27-8DCC-40F5-BCB2-44EFEE863855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD6DE27-8DCC-40F5-BCB2-44EFEE863855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD6DE27-8DCC-40F5-BCB2-44EFEE863855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8F8BA6-6766-41AF-AA06-44750B12F11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8F8BA6-6766-41AF-AA06-44750B12F11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8F8BA6-6766-41AF-AA06-44750B12F11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8F8BA6-6766-41AF-AA06-44750B12F11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095BCFEB-20F9-4A59-85A2-FA5D8A45334E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095BCFEB-20F9-4A59-85A2-FA5D8A45334E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095BCFEB-20F9-4A59-85A2-FA5D8A45334E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095BCFEB-20F9-4A59-85A2-FA5D8A45334E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F263E2-BC36-4472-AADB-62BD2D2DDE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F263E2-BC36-4472-AADB-62BD2D2DDE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F263E2-BC36-4472-AADB-62BD2D2DDE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F263E2-BC36-4472-AADB-62BD2D2DDE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF4565B-B3C9-4866-BF64-5F925B055E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF4565B-B3C9-4866-BF64-5F925B055E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF4565B-B3C9-4866-BF64-5F925B055E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF4565B-B3C9-4866-BF64-5F925B055E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FAD6DE27-8DCC-40F5-BCB2-44EFEE863855} = {FDB4C3E3-DE62-4328-A9CC-57116053FD7E}
+		{4B8F8BA6-6766-41AF-AA06-44750B12F11E} = {FDB4C3E3-DE62-4328-A9CC-57116053FD7E}
+		{095BCFEB-20F9-4A59-85A2-FA5D8A45334E} = {FDB4C3E3-DE62-4328-A9CC-57116053FD7E}
+		{28F263E2-BC36-4472-AADB-62BD2D2DDE3C} = {FDB4C3E3-DE62-4328-A9CC-57116053FD7E}
+		{1FF4565B-B3C9-4866-BF64-5F925B055E11} = {FDB4C3E3-DE62-4328-A9CC-57116053FD7E}
+	EndGlobalSection
+EndGlobal
