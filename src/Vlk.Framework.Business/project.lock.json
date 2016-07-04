@@ -5594,6 +5594,7 @@
     "": [
       "NETStandard.Library >= 1.6.0",
       "Vlk.Framework.Common >= 1.0.0-*",
+      "Vlk.Framework.Core >= 1.0.0-*",
       "Vlk.Framework.DAL >= 1.0.0-*",
       "Vlk.Framework.Models >= 1.0.0-*"
     ],

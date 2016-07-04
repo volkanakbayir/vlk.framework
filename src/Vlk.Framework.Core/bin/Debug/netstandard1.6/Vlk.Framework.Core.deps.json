@@ -9,7 +9,8 @@
     ".NETStandard,Version=v1.6/": {
       "Vlk.Framework.Core/1.0.0": {
         "dependencies": {
-          "NETStandard.Library": "1.6.0"
+          "NETStandard.Library": "1.6.0",
+          "Vlk.Framework.Common": "1.0.0"
         },
         "runtime": {
           "Vlk.Framework.Core.dll": {}
@@ -722,6 +723,14 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Vlk.Framework.Common/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "1.6.0"
+        },
+        "runtime": {
+          "Vlk.Framework.Common.dll": {}
+        }
       }
     }
   },
@@ -1035,6 +1044,11 @@
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-Mk2mKmPi0nWaoiYeotq1dgeNK1fqWh61+EK+w4Wu8SWuTYLzpUnschb59bJtGywaPq7SmTuPf44wrXRwbIrukg=="
+    },
+    "Vlk.Framework.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

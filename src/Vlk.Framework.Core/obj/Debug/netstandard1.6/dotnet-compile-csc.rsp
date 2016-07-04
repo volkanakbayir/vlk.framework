@@ -53,6 +53,7 @@
 -r:"C:\Users\Volkan\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Volkan\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Volkan\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
+-r:"D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\bin\Debug\netstandard1.5\Vlk.Framework.Common.dll"
 "D:\GitRepos\vlk.framework\src\Vlk.Framework.Core\DataAccess\ICanCreate.cs"
 "D:\GitRepos\vlk.framework\src\Vlk.Framework.Core\DataAccess\ICanDelete.cs"
 "D:\GitRepos\vlk.framework\src\Vlk.Framework.Core\DataAccess\ICanUpdate.cs"
@@ -61,5 +62,4 @@
 "D:\GitRepos\vlk.framework\src\Vlk.Framework.Core\DataAccess\IUnitOfWorkFactory.cs"
 "D:\GitRepos\vlk.framework\src\Vlk.Framework.Core\DataAccess\Transaction\ITransaction.cs"
 "D:\GitRepos\vlk.framework\src\Vlk.Framework.Core\Exceptions\DataException.cs"
-"D:\GitRepos\vlk.framework\src\Vlk.Framework.Core\Paging\PagedResult.cs"
 "D:\GitRepos\vlk.framework\src\Vlk.Framework.Core\Properties\AssemblyInfo.cs"
