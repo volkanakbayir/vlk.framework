@@ -6,7 +6,7 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>fad6de27-8dcc-40f5-bcb2-44efee863855</ProjectGuid>
+    <ProjectGuid>fffa7106-245c-4f85-8ddc-8cdf4cbada2f</ProjectGuid>
     <RootNamespace>Vlk.Framework.WebApi</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>

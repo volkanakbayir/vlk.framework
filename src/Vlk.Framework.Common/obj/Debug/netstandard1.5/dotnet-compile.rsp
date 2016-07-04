@@ -1,5 +1,5 @@
---temp-output:D:\SelfProject\Vlk.Framework.WebApi\src\Vlk.Framework.Common\obj\Debug\netstandard1.5\
---out:D:\SelfProject\Vlk.Framework.WebApi\src\Vlk.Framework.Common\bin\Debug\netstandard1.5\Vlk.Framework.Common.dll
+--temp-output:D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\obj\Debug\netstandard1.5\
+--out:D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\bin\Debug\netstandard1.5\Vlk.Framework.Common.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_5
@@ -51,5 +51,5 @@
 --reference:C:\Users\Volkan\.nuget\packages\System.Threading.Timer\4.0.1-rc2-24027\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Volkan\.nuget\packages\System.Xml.ReaderWriter\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Volkan\.nuget\packages\System.Xml.XDocument\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.XDocument.dll
-D:\SelfProject\Vlk.Framework.WebApi\src\Vlk.Framework.Common\Class1.cs
-D:\SelfProject\Vlk.Framework.WebApi\src\Vlk.Framework.Common\Properties\AssemblyInfo.cs
+D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\Paging\PagedResult.cs
+D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\Properties\AssemblyInfo.cs

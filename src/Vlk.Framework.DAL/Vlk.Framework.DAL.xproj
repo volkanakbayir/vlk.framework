@@ -7,7 +7,7 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>28f263e2-bc36-4472-aadb-62bd2d2dde3c</ProjectGuid>
+    <ProjectGuid>6362add6-4dda-4d11-8215-337ada82b2d1</ProjectGuid>
     <RootNamespace>Vlk.Framework.DAL</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>

@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"D:\SelfProject\Vlk.Framework.WebApi\src\Vlk.Framework.Common\obj\Debug\netstandard1.5\dotnet-compile.assemblyinfo.cs"
--out:"D:\SelfProject\Vlk.Framework.WebApi\src\Vlk.Framework.Common\bin\Debug\netstandard1.5\Vlk.Framework.Common.dll"
+"D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\obj\Debug\netstandard1.5\dotnet-compile.assemblyinfo.cs"
+-out:"D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\bin\Debug\netstandard1.5\Vlk.Framework.Common.dll"
 -r:"C:\Users\Volkan\.nuget\packages\Microsoft.Win32.Primitives\4.0.1-rc2-24027\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
 -r:"C:\Users\Volkan\.nuget\packages\System.AppContext\4.1.0-rc2-24027\ref\netstandard1.5\System.AppContext.dll"
 -r:"C:\Users\Volkan\.nuget\packages\System.Collections\4.0.11-rc2-24027\ref\netstandard1.3\System.Collections.dll"
@@ -49,5 +49,5 @@
 -r:"C:\Users\Volkan\.nuget\packages\System.Threading.Timer\4.0.1-rc2-24027\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Volkan\.nuget\packages\System.Xml.ReaderWriter\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Volkan\.nuget\packages\System.Xml.XDocument\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.XDocument.dll"
-"D:\SelfProject\Vlk.Framework.WebApi\src\Vlk.Framework.Common\Class1.cs"
-"D:\SelfProject\Vlk.Framework.WebApi\src\Vlk.Framework.Common\Properties\AssemblyInfo.cs"
+"D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\Paging\PagedResult.cs"
+"D:\GitRepos\vlk.framework\src\Vlk.Framework.Common\Properties\AssemblyInfo.cs"
